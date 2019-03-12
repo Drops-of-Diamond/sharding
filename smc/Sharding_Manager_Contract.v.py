@@ -1,6 +1,4 @@
-# Developed from the draft phase 1 spec: https://ethresear.ch/t/sharding-phase-1-spec/1407
-# As well as the validator_manager_contract:
-# https://github.com/ethereum/py-evm/blob/sharding/evm/vm/forks/sharding/contracts/validator_manager.v.py
+# Developed from the draft phase 1 spec, now deprecated: https://ethresear.ch/t/sharding-phase-1-spec/1407
 
 # Copyright: Unlicense, no rights reserved. Author: James Ray
 
